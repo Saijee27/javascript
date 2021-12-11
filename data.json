@@ -1,0 +1,22 @@
+{ "Profile":[{
+    "img":"1.JPG",
+    "name":"sai",
+    "pin":52987654,
+    "college":"aditya",
+    "Branch":"CSE"
+},
+{
+    "img":"2.JPG",
+    "name":"mukesh",
+    "pin":1234567,
+    "college":"aditya",
+    "Branch":"CSE"
+},
+{
+    "img":"1.jp",
+    "name":"kamalesh",
+    "pin":98765,
+    "college":"aditya",
+    "Branch":"CSE"
+}]
+}
